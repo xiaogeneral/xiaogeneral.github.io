@@ -1,3 +1,3 @@
 # xiaogeneral.github.io
-xiaogeneral's personal blob
+xiaogeneral's personal blog
 基于hexo搭建
